@@ -1,0 +1,18 @@
+/* styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* Your custom styles here */
+
+/* @import 'daisyui/dist/full.css';
+@import '@tailwindcss/line-clamp'; */
+
+
+
+body{
+
+
+  /* margin: auto;
+  max-width: 1440px; */ 
+  position: relative;
+}
